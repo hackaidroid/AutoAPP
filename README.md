@@ -8,10 +8,7 @@ Latest release version 0.01
 
 This Project needs a maintainer, If you would like to be please contact me - ashikes@gmail.com
 
-Demo Page:
-[Simple] (http://a5hik.github.io/ng-sortable/#/kanban)
 
-[Advanced] (http://a5hik.github.io/ng-sortable/#/sprint)
 
 Demo Includes:
 
